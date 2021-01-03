@@ -54,7 +54,7 @@ for your tts you can use the [cast](https://flows.nodered.org/node/node-red-cont
 
 # thermostat
 
-thanks to @rexer78 for his collaboration and integration of his thermostat:
+thanks to [rexer78](https://github.com/rexer78) for his collaboration and integration of his thermostat:
 
 ![20210103_155048](https://user-images.githubusercontent.com/68069659/103481681-dd8bc280-4ddc-11eb-9b3d-762d6eed2c41.gif)
 
