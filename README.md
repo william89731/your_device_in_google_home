@@ -19,6 +19,7 @@ and these are the new nodes installed:
 
 and now we can expose our devices in google home.
 
+
 # lights
 
 Configure nora before building your flow:
@@ -31,8 +32,39 @@ with these two flows you now have your light in google home :
 
 code [here](https://github.com/william89731/your-devices-in-google-home.-free-/blob/main/luce%20flussi%20nora.txt)
 
+
 # smartplug
 
 same procedure as the lights:
+
+![20210103_145237](https://user-images.githubusercontent.com/68069659/103480662-cd241980-4dd5-11eb-8c8b-21aaca955ff3.gif)
+
+![immagine](https://user-images.githubusercontent.com/68069659/103480737-55a2ba00-4dd6-11eb-93ad-e74d9915fd19.png)
+
+code [here](https://github.com/william89731/your-devices-in-google-home./blob/main/flow%20smartplug.txt)
+
+# temperature and humidity sensor
+
+in this case you have to use the scene node and create a routine that recalls it:
+
+![immagine](https://user-images.githubusercontent.com/68069659/103481132-06aa5400-4dd9-11eb-9dd3-6d49596f12c0.png)
+
+for your tts you can use the [cast](https://flows.nodered.org/node/node-red-contrib-cast) node
+
+
+# thermostat
+
+thanks to @rexer78 for his collaboration and integration of his thermostat:
+
+![20210103_155048](https://user-images.githubusercontent.com/68069659/103481681-dd8bc280-4ddc-11eb-9b3d-762d6eed2c41.gif)
+
+![photo_2021-01-03_16-05-02](https://user-images.githubusercontent.com/68069659/103481862-b1247600-4ddd-11eb-889b-8d7bebe7b21c.jpg)
+
+code [here](https://github.com/william89731/your-devices-in-google-home./blob/main/ClimaCameraNora%20(2).json)
+
+
+
+
+
 
 
