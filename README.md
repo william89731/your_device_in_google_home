@@ -30,3 +30,9 @@ with these two flows you now have your light in google home :
 ![immagine](https://user-images.githubusercontent.com/68069659/103479703-cabec100-4dcf-11eb-97e9-adbaf4cb8757.png)
 
 code [here](https://github.com/william89731/your-devices-in-google-home.-free-/blob/main/luce%20flussi%20nora.txt)
+
+# smartplug
+
+same procedure as the lights:
+
+
