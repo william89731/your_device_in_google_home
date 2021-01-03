@@ -1,4 +1,4 @@
-# your-devices-in-google-home
+# your devices in google home. free
 
 are you using [home assistant](https://www.home-assistant.io/) and [node red](https://nodered.org/)? well, this mini guide is for you !!
 
