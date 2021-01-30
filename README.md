@@ -1,5 +1,7 @@
 # your devices in google home. free
 
+**deprecated**  look [here](https://github.com/william89731/IOT-home-automation) for new repo
+
 Are you using [home assistant](https://www.home-assistant.io/) and [node red](https://nodered.org/)? well, this mini guide is for you !!
 
 look below:
